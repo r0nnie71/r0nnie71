@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Blog Manga</title>
+        <h1> Blog Manga</h1>
+        
+        <style>
+        
+        body {
+            font-family: sans-serif;
+        }
+        h1 {
+            font-size: 13px;
+        }
+        p {
+            font-style: italic;
+        }
+        h2 {
+            font-weight: bold;
+        }
+        
+        body {
+        background : rgb(233, 237, 9);
+        
+        }
+        </style>
+    </head>
+    <body>
+        
+        <ul>
+            <li><a href="#liens1">1er article!</a> </li>
+            <li><a href="#liens2">2ème article!</a></li>
+            <li><a href="#liens3">3ème article!</a></li>
+        </ul>
+        
+        <h2> id="liens1">Naruto</h2>
+       
+           <p>Les vidéos vous permettent de faire passer votre message de façon convaincante. Quand vous cliquez sur Vidéo en ligne, vous pouvez coller le code incorporé de la vidéo que vous souhaitez ajouter. Vous pouvez également taper un mot-clé pour rechercher en ligne la vidéo qui convient le mieux à votre document.</p>
+<img src="https://upload.wikimedia.org/wikipedia/fr/thumb/1/15/Logo_Naruto_Shipp%C5%ABden.svg/langfr-2560px-Logo_Naruto_Shipp%C5%ABden.svg.png" alt=" Naruto" width="40%">
+        
+        <h3> id="liens2">Dragon ball z</h3>
+        
+        <p>Pour donner un aspect professionnel à votre document, Word offre des conceptions d’en-tête, de pied de page, de page de garde et de zone de texte qui se complètent mutuellement. Vous pouvez par exemple ajouter une page de garde, un en-tête et une barre latérale identiques. Cliquez sur Insérer et sélectionnez les éléments de votre choix dans les différentes galeries.</p>
+<img src="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Dragon_Ball_Z_Logo.svg/langfr-330px-Dragon_Ball_Z_Logo.svg.png" alt=" Dargon ballz">
+        
+        <h4> id="liens3">Death Note</h4>
+        
+<p>Pour donner un aspect professionnel à votre document, Word offre des conceptions d’en-tête, de pied de page, de page de garde et de zone de texte qui se complètent mutuellement. Vous pouvez par exemple ajouter une page de garde, un en-tête et une barre latérale identiques. Cliquez sur Insérer et sélectionnez les éléments de votre choix dans les différentes galeries.</p>
+<img src="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b2/Death_Note_Logo.svg/langfr-2560px-Death_Note_Logo.svg.png" alt="Death Note" width="40%">
+        
+        
+    </body>
+</html>
